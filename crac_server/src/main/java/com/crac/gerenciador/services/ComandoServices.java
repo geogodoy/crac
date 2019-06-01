@@ -1,12 +1,12 @@
-package com.crac.controller;
+package com.crac.gerenciador.services;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.crac.entities.Comando;
 import com.crac.gerenciador.dtos.ComandoDto;
+import com.crac.gerenciador.entities.Comando;
 import com.crac.gerenciador.repositories.ComandoRepository;
 
 

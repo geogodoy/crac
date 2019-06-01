@@ -1,4 +1,4 @@
-package com.montanha.gerenciador;
+package com.crac.gerenciador.responses;
 
 import java.util.ArrayList;
 import java.util.List;
