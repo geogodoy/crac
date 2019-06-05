@@ -1,4 +1,4 @@
-package com.crac.gerenciador.controller;
+package com.crac.controller;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.crac.gerenciador.entities.Comando;
-import com.crac.gerenciador.services.ComandoServices;
+import com.crac.entities.Comando;
+import com.crac.services.ComandoServices;
 
 @RestController
 @RequestMapping("/api/comando")

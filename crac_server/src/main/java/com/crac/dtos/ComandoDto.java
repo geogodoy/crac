@@ -1,4 +1,4 @@
-package com.crac.gerenciador.dtos;
+package com.crac.dtos;
 
 import java.util.Date;
 

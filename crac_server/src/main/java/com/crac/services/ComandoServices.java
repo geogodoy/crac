@@ -1,13 +1,13 @@
-package com.crac.gerenciador.services;
+package com.crac.services;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.crac.gerenciador.dtos.ComandoDto;
-import com.crac.gerenciador.entities.Comando;
-import com.crac.gerenciador.repositories.ComandoRepository;
+import com.crac.dtos.ComandoDto;
+import com.crac.entities.Comando;
+import com.crac.repositories.ComandoRepository;
 
 
 @Service

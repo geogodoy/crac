@@ -1,4 +1,4 @@
-package com.crac.gerenciador.entities;
+package com.crac.entities;
 
 import java.io.Serializable;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.crac.gerenciador.responses;
+package com.crac.responses;
 
 import java.util.ArrayList;
 import java.util.List;
