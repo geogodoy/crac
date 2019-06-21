@@ -1,0 +1,14 @@
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\bin\Debug\netcoreapp2.2\CRAC.Api.deps.json
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\bin\Debug\netcoreapp2.2\CRAC.Api.runtimeconfig.json
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\bin\Debug\netcoreapp2.2\CRAC.Api.runtimeconfig.dev.json
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\bin\Debug\netcoreapp2.2\CRAC.Api.dll
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\bin\Debug\netcoreapp2.2\CRAC.Api.pdb
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\obj\Debug\netcoreapp2.2\CRAC.Api.csprojAssemblyReference.cache
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\obj\Debug\netcoreapp2.2\CRAC.Api.csproj.CoreCompileInputs.cache
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\obj\Debug\netcoreapp2.2\CRAC.Api.RazorAssemblyInfo.cache
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\obj\Debug\netcoreapp2.2\CRAC.Api.RazorAssemblyInfo.cs
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\obj\Debug\netcoreapp2.2\CRAC.Api.AssemblyInfoInputs.cache
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\obj\Debug\netcoreapp2.2\CRAC.Api.AssemblyInfo.cs
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\obj\Debug\netcoreapp2.2\CRAC.Api.RazorTargetAssemblyInfo.cache
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\obj\Debug\netcoreapp2.2\CRAC.Api.dll
+C:\Users\AnaDaniela\Desktop\EmbarcadosIII\CRAC.Api\obj\Debug\netcoreapp2.2\CRAC.Api.pdb
