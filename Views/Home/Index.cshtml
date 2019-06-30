@@ -1,0 +1,36 @@
+﻿@model CRAC.Api.SQLite.Moviment
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-controller="Home" asp-action="Index" method="post">
+  
+    <div class="row">
+        <div class="col-md-3">
+            <div class="form-group">
+                <label for="name">Left</label>
+                @Html.TextBoxFor(m => m.Left, new { @class = "form-control"})
+            </div>
+        </div>
+         <div class="col-md-3">
+            <div class="form-group">
+                <label for="name">Right</label>
+                @Html.TextBoxFor(m => m.Right, new { @class = "form-control" , type="number"})
+            </div>
+        </div>
+         <div class="col-md-3">
+            <div class="form-group">
+                <label for="name">Claw</label>
+                @Html.TextBoxFor(m => m.Claw, new { @class = "form-control"})
+            </div>
+        </div>
+         <div class="col-md-3">
+            <div class="form-group">
+                <label for="name">Base</label>
+                @Html.TextBoxFor(m => m.Base, new { @class = "form-control"})
+            </div>
+        </div>
+    </div>
+  <input type="submit" class="btn btn-primary btn-block" name="submit" />
+</form>
